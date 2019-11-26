@@ -1,4 +1,8 @@
-# todo-list
+# To do List
+
+## What is this?
+It's just a simple To Do app, like any other To Do app you'll find anywhere,
+I'm just making this to test the Preact Framework
 
 ## CLI Commands
 
